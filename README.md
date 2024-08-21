@@ -1,2 +1,3 @@
 # NeuIPS_comp
-NeuIPS competition
+NeuIPS 2024 competition: https://www.codabench.org/competitions/3282/
+
